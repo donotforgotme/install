@@ -33,22 +33,3 @@ pip install -r requirements.txt
 pip install -r requirements-dev.txt
 
 python3 rsf.py
-
-exit
-
-print ("\033[1;32m Install Ok Nice Day:)") 
-
-cowsay -f kiss.cow "root/user" | lolcat
-figlet "Time Hacker" | lolcat
-sleep 1
-figlet "Time Hacker" | lolcat
-sleep 2
-figlet "Time Hacker" | lolcat
-sleep 3
-figlet "Time Hacker" | lolcat
-sleep 1
-figlet "Time Hacker" | lolcat
-sleep 2
-figlet "Time Hacker" | lolcat
-sleep 3
-
